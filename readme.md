@@ -1,4 +1,4 @@
-<a align="center" href="https://milligram.github.io"><img width="100%" src="https://imgur.com/a/SLbyW" alt="Somersault - A minimalist CSS framework"></a>
+[![Imgur](https://i.imgur.com/saudmfM.png)](http://getuikit.com/)
 
 ##Somersault
 
@@ -24,7 +24,7 @@ Somersault uses a 12 column flex box layout. Simply, set up your html file in th
 <body>
 ```
 
-Inside the `<div>` with `flex-grid` class you can have your responsive classes. 
+Inside the `<div>` with `flex-grid` class you can have your responsive classes.
 
 ## Contributing
 
