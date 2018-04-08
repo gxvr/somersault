@@ -1,6 +1,8 @@
-[![Imgur](https://i.imgur.com/saudmfM.png)](http://getuikit.com/)
+[![Imgur](https://i.imgur.com/saudmfM.png)](https://souvikmaity.github.io/somersault/)
 
-##Somersault
+
+
+## Somersault
 
 Somersault is a CSS flex box layout for developing responsive interfaces and UI kits.
 
